@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SQUtilities", "SQUtilities.csproj", "{B56DB290-04FF-49B0-AB8D-21BB4E98799A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B56DB290-04FF-49B0-AB8D-21BB4E98799A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56DB290-04FF-49B0-AB8D-21BB4E98799A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56DB290-04FF-49B0-AB8D-21BB4E98799A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56DB290-04FF-49B0-AB8D-21BB4E98799A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {846E77B4-221D-4B46-A60A-ADA9458A4491}
+	EndGlobalSection
+EndGlobal
