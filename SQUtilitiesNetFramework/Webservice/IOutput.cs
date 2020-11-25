@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Utilities.Webservice
+namespace SQUtilitiesNetFramework.Webservice
 {
     public interface IOutput<T>
     {

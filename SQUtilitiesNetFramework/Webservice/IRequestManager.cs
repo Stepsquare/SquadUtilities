@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using RestSharp.Authenticators;
 using System.Text;
 
-namespace Utilities.Webservice
+namespace SQUtilitiesNetFramework.Webservice
 {
     interface IRequestManager<T>
     {

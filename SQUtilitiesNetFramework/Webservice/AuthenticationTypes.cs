@@ -1,4 +1,4 @@
-﻿namespace Utilities.Webservice
+﻿namespace SQUtilitiesNetFramework.Webservice
 {
     public enum AuthenticationTypes
     {

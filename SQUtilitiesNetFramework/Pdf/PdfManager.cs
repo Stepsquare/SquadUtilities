@@ -4,7 +4,7 @@ using PdfSharp.Pdf.IO;
 using System.IO;
 using TheArtOfDev.HtmlRenderer.PdfSharp;
 
-namespace Utilities.Pdf
+namespace SQUtilitiesNetFramework.Pdf
 {
     public class PdfManager
     {

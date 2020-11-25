@@ -1,9 +1,9 @@
 ﻿using Newtonsoft.Json;
 using RestSharp;
 using RestSharp.Authenticators;
-using Utilities.Webservice;
+using SQUtilitiesNetFramework.Webservice;
 
-namespace Utilities.Webservice
+namespace SQUtilitiesNetFramework.Webservice
 {
     /// <summary>
     /// T is a class of the wanted return type. Models/Webservice/Outputs

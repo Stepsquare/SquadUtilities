@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace Utilities.Excel
+namespace SQUtilitiesNetFramework.Excel
 {
     public static class ExcelManager<T> where T : new()
     {
